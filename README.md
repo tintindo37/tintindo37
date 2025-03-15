@@ -92,3 +92,10 @@ Hello! I'm a passionate **SysOps Engineer** currently finishing high school. I t
 ---
 
 💻 **Always learning, always building!** 🚀
+* **Things I want to learn or improve:**
+    * Some JS framework
+    * Improve my python scripting
+    * Learn more DBs like Postgressql or MongoDB
+    * Learn how search engines like opensearch or elasticcashe works
+    * Explore cashing services like Redis
+    * Learn more automation tools like ansible and CI/CD with Jenkins or TeamCity 
