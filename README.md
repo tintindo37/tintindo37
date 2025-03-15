@@ -6,18 +6,18 @@ Hello! I'm a passionate **SysOps Engineer** currently finishing high school. I h
 
 ## 🔧 Skills & Technologies
 
-**OS:** Linux, Windows, Windows Server 
-**Scripting:** Bash, BAT, Python 
-**Web:** HTML, JS, PHP, SQL
-**DB:** MySQL 
-**Servers:** Nginx, Apache, IIS 
-**Automation:** Rundeck 
-**Monitoring:** Zabbix, Grafana, Uptime-Kuma 
-**SysAdmin:** Server Mgmt, Network, Security, Action1(RMM)  
-**Networking:** MikroTik, Zyxel, TP-Link 
-**VPN:** OpenVPN, WireGuard, Tailscale, ZeroTier, Remote.It  
-**Game hosting:** Bare Metal, Docker, Pterodactyl  
-**Cloud:** AWS, Oracle Cloud
+**OS:** Linux, Windows, Windows Server <br>
+**Scripting:** Bash, BAT, Python <br>
+**Web:** HTML, JS, PHP, SQL<br>
+**DB:** MySQL <br>
+**Servers:** Nginx, Apache, IIS <br>
+**Automation:** Rundeck <br>
+**Monitoring:** Zabbix, Grafana, Uptime-Kuma <br>
+**SysAdmin:** Server Mgmt, Network, Security, Action1(RMM)  <br>
+**Networking:** MikroTik, Zyxel, TP-Link <br>
+**VPN:** OpenVPN, WireGuard, Tailscale, ZeroTier, Remote.It  <br>
+**Game hosting:** Bare Metal, Docker, Pterodactyl  <br>
+**Cloud:** AWS, Oracle Cloud<br>
 ## 🚀 Projects & Interests
 
 * **Automation:** Automating system tasks using Bash and Python.
