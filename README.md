@@ -8,9 +8,9 @@ Hello! I'm a passionate **SysOps Engineer** currently finishing high school. I h
 
 **OS:** Linux, Windows, Windows Server <br>
 **Scripting:** Bash, BAT, Python <br>
-**Web:** HTML, JS, PHP, SQL<br>
+**Web:** HTML, JS, PHP, SQL, Wordpress<br>
 **DB:** MySQL <br>
-**Servers:** Nginx, Apache, IIS <br>
+**Web hosting, proxy and load balancer:** Nginx, Apache, IIS, Nginx proxy manager, aws and oracle load balancers <br>
 **Automation:** Rundeck <br>
 **Monitoring:** Zabbix, Grafana, Uptime-Kuma <br>
 **SysAdmin:** Server Mgmt, Network, Security, Action1(RMM)  <br>
