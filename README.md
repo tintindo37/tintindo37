@@ -92,7 +92,7 @@ Hello! I'm a passionate **SysOps Engineer** currently finishing high school. I h
 ---
 
 💻 **Always learning, always building!** 🚀
-* **Things I want to learn or improve:**
+**Things I want to learn or improve:**
     * Some JS framework
     * Improve my python scripting
     * Learn more DBs like Postgressql or MongoDB
