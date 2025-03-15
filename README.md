@@ -92,10 +92,30 @@ Hello! I'm a passionate **SysOps Engineer** currently finishing high school. I h
 ---
 
 💻 **Always learning, always building!** 🚀
-**Things I want to learn or improve:**
-    * Some JS framework
-    * Improve my python scripting
-    * Learn more DBs like Postgressql or MongoDB
-    * Learn how search engines like opensearch or elasticcashe works
-    * Explore cashing services like Redis
-    * Learn more automation tools like ansible and CI/CD with Jenkins or TeamCity 
+
+I'm committed to continuous learning and expanding my skillset. Here are the areas I'm currently focused on:
+
+**Web Development & Front-End:**
+
+* Master a modern JavaScript framework.
+
+**Scripting & Backend:**
+
+* Dive deeper into database technologies:
+    * Explore PostgreSQL for robust relational data management.
+    * Learn MongoDB for flexible NoSQL document storage.
+
+**Data & Search:**
+
+* Understand the inner workings of search engines like OpenSearch and Elasticsearch.
+* Implement and optimize caching strategies with Redis.
+
+**DevOps & Automation:**
+
+* Become proficient with Ansible for configuration management and orchestration.
+* Build and manage robust CI/CD pipelines using Jenkins or TeamCity.
+* Improving python scripting
+
+---
+
+
