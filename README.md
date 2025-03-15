@@ -53,6 +53,7 @@ I'm committed to continuous learning and expanding my skillset. Here are the are
 * Become proficient with Ansible for configuration management and orchestration.
 * Build and manage robust CI/CD pipelines using Jenkins or TeamCity.
 * Improving python scripting
+* Learn container orchestration system like Kubernetes and making my own docker containers
 
 ---
 
