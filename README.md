@@ -97,7 +97,7 @@ I'm committed to continuous learning and expanding my skillset. Here are the are
 
 **Web Development & Front-End:**
 
-* Master a modern JavaScript framework.
+* Learn any JavaScript framework.
 
 **Scripting & Backend:**
 
