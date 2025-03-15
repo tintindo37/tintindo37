@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm a passionate **SysOps Engineer** currently finishing high school. I thrive on hands-on experience with diverse technologies and systems administration. My expertise spans both Linux and Windows environments, where I focus on automation, performance optimization, and robust security. I'm a lifelong learner, dedicated to exploring emerging technologies and expanding my skill set.
+Hello! I'm a passionate **SysOps Engineer** currently finishing high school. I have work experience with diverse technologies and systems administration. My expertise spans both Linux and Windows environments, where I focus on automation, performance optimization, and robust security. I'm a lifelong learner, dedicated to exploring emerging technologies and expanding my skill set.
 
 ## 🔧 Skills & Technologies
 
