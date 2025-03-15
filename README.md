@@ -25,11 +25,6 @@ Hello! I'm a passionate **SysOps Engineer** currently finishing high school. I h
 💻 **Always learning, always building!** 🚀
 
 I'm committed to continuous learning and expanding my skillset. Here are the areas I'm currently focused on:
-
-**Web Development & Front-End:**
-
-* Learn any JavaScript framework.
-
 **Scripting & Backend:**
 
 * Dive deeper into database technologies:
