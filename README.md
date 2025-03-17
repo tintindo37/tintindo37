@@ -25,7 +25,7 @@ Hello! I'm a passionate **Junior SysOps Engineer** currently finishing high scho
 * **Server Management:** Configuring and managing Linux and Windows Server environments.
 * **Exploring Emerging Tech:** Diving into AI and new technology stacks.
 * **Educational Pursuits:** School-related projects and learning.
-* **Gaming and game hosting:** Running game server like Mincraft and CS2 for playing games with friends online
+* **Gaming and game hosting:** Running game server like Mincraft server and CS2 server for playing games with friends online
 * **Homelab Enthusiast:**
     * Running a Proxmox server for virtualization.
     * Utilizing Raspberry Pi for various projects.
