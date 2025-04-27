@@ -12,6 +12,7 @@ Hello! I'm a passionate **Junior SysOps Engineer** currently finishing high scho
 **DB:** MySQL, MariaDB <br>
 **Web hosting, proxy and load balancer:** Nginx, Apache, IIS, AWS and OCI load balancers <br>
 **Automation:** Rundeck <br>
+**CI/CD tools:** TeamCity, Github actions <br>
 **Monitoring:** Zabbix, Grafana, Uptime-Kuma <br>
 **SysAdmin:** Server Mgmt, Network, Security, Action1(RMM)  <br>
 **Networking:** MikroTik, Zyxel, TP-Link <br>
