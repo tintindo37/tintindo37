@@ -9,7 +9,7 @@ Hello! I'm a passionate **Junior SysOps Engineer** currently finishing high scho
 **OS:** Linux, Windows, Windows Server <br>
 **Scripting:** Bash, BAT, Python <br>
 **Web:** HTML, JS, PHP, SQL, Wordpress<br>
-**DB:** MySQL <br>
+**DB:** MySQL, MariaDB <br>
 **Web hosting, proxy and load balancer:** Nginx, Apache, IIS, AWS and OCI load balancers <br>
 **Automation:** Rundeck <br>
 **Monitoring:** Zabbix, Grafana, Uptime-Kuma <br>
